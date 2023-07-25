@@ -1,0 +1,9 @@
+C:\Users\basan\OneDrive\Desktop\Training\Day1\Section-8(1.32)\Section-8(1.32)\bin\Debug\Section-8(1.32).exe.config
+C:\Users\basan\OneDrive\Desktop\Training\Day1\Section-8(1.32)\Section-8(1.32)\bin\Debug\Section-8(1.32).exe
+C:\Users\basan\OneDrive\Desktop\Training\Day1\Section-8(1.32)\Section-8(1.32)\bin\Debug\Section-8(1.32).pdb
+C:\Users\basan\OneDrive\Desktop\Training\Day1\Section-8(1.32)\Section-8(1.32)\obj\Debug\Section-8(1.32).csproj.AssemblyReference.cache
+C:\Users\basan\OneDrive\Desktop\Training\Day1\Section-8(1.32)\Section-8(1.32)\obj\Debug\Section-8(1.32).csproj.SuggestedBindingRedirects.cache
+C:\Users\basan\OneDrive\Desktop\Training\Day1\Section-8(1.32)\Section-8(1.32)\obj\Debug\Section-8(1.32).csproj.CoreCompileInputs.cache
+C:\Users\basan\OneDrive\Desktop\Training\Day1\Section-8(1.32)\Section-8(1.32)\obj\Debug\Section-8(1.32).exe
+C:\Users\basan\OneDrive\Desktop\Training\Day1\Section-8(1.32)\Section-8(1.32)\obj\Debug\Section-8(1.32).pdb
+C:\Users\basan\OneDrive\Desktop\Training\Day1\Section-8(1.32)\Section-8(1.32)\bin\Debug\student data.txt
